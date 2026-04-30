@@ -14,6 +14,12 @@ Instead of only generating answers, SafeRoute-UQ explicitly estimates *how much 
 - Calibrated green / amber / red decision gating
 - Interactive Gradio-based UI with diagnostics
 
+<p align="center">
+  <img src="1.png" alt="SafeRoute Screenshot">
+</p>
+
+
+
 ## Pipeline
 1. **Corpus ingestion** (JSONL road notices)
 2. **Embedding & indexing** (FAISS cosine similarity)
